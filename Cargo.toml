@@ -1,0 +1,11 @@
+[package]
+name = "random-walk-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Random walks on agent networks with cover time, mixing time, and hitting probability analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/random-walk-agent"
+keywords = ["random-walk", "markov-chain", "mixing-time", "graph", "math"]
+categories = ["mathematics", "algorithms", "science"]
+
+[dependencies]
